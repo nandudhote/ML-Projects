@@ -1,0 +1,60 @@
+b'ets Jul 29 2019 12:21:46\r\n'
+b'\r\n'
+"b'rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)\r\n'"
+"b'configsip: 0, SPIWP:0xee\r\n'"
+"b'clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00\r\n'"
+"b'mode:DIO, clock div:1\r\n'"
+"b'load:0x3fff0018,len:4\r\n'"
+"b'load:0x3fff001c,len:1100\r\n'"
+"b'load:0x40078000,len:9564\r\n'"
+b'ho 0 tail 12 room 4\r\n'
+"b'load:0x40080400,len:6320\r\n'"
+b'entry 0x400806a8\r\n'
+b'ets Jul 29 2019 12:21:46\r\n'
+b'\r\n'
+"b'rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)\r\n'"
+"b'configsip: 0, SPIWP:0xee\r\n'"
+"b'clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00\r\n'"
+"b'mode:DIO, clock div:1\r\n'"
+"b'load:0x3fff0018,len:4\r\n'"
+"b'load:0x3fff001c,len:1100\r\n'"
+"b'load:0x40078000,len:9564\r\n'"
+b'ho 0 tail 12 room 4\r\n'
+"b'load:0x40080400,len:6320\r\n'"
+b'entry 0x400806a8\r\n'
+b'ets Jul 29 2019 12:21:46\r\n'
+b'\r\n'
+"b'rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)\r\n'"
+"b'configsip: 0, SPIWP:0xee\r\n'"
+"b'clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00\r\n'"
+"b'mode:DIO, clock div:1\r\n'"
+"b'load:0x3fff0018,len:4\r\n'"
+"b'load:0x3fff001c,len:1100\r\n'"
+"b'load:0x40078000,len:9564\r\n'"
+b'ho 0 tail 12 room 4\r\n'
+"b'load:0x40080400,len:6320\r\n'"
+b'entry 0x400806a8\r\n'
+b'ets Jul 29 2019 12:21:46\r\n'
+b'\r\n'
+"b'rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)\r\n'"
+"b'configsip: 0, SPIWP:0xee\r\n'"
+"b'clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00\r\n'"
+"b'mode:DIO, clock div:1\r\n'"
+"b'load:0x3fff0018,len:4\r\n'"
+"b'load:0x3fff001c,len:1100\r\n'"
+"b'load:0x40078000,len:9564\r\n'"
+b'ho 0 tail 12 room 4\r\n'
+"b'load:0x40080400,len:6320\r\n'"
+b'entry 0x400806a8\r\n'
+b'ets Jul 29 2019 12:21:46\r\n'
+b'\r\n'
+"b'rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)\r\n'"
+"b'configsip: 0, SPIWP:0xee\r\n'"
+"b'clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00\r\n'"
+"b'mode:DIO, clock div:1\r\n'"
+"b'load:0x3fff0018,len:4\r\n'"
+"b'load:0x3fff001c,len:1100\r\n'"
+"b'load:0x40078000,len:9564\r\n'"
+b'ho 0 tail 12 room 4\r\n'
+"b'load:0x40080400,len:6320\r\n'"
+b'entry 0x400806a8\r\n'
